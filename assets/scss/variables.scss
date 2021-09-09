@@ -1,0 +1,12 @@
+$roboto: 'Roboto', sans-serif;
+$color-white: #ffffff;
+$color-grey: #5C6062;
+$color-blue: #024189;
+$color-red: #E30613; 
+
+@mixin flex-box($layout:row, $align:center, $justify:space-between) {
+	display: flex;
+	flex-flow: $layout;
+	align-items: $align;
+	justify-content: $justify;
+}
