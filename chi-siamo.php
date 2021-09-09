@@ -29,7 +29,7 @@
 	<meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 
-	<title>MECCFOR - Design & Forniture Componenti Meccanici</title>
+	<title>Chi siamo • MECCFOR - Design & Forniture Componenti Meccanici</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/mc.css">
 </head>
 <body>
@@ -54,28 +54,33 @@
 				</div>
 			</nav>
 			<div class="mc-heading">
-				<h1><a href="index.php"><img src="assets/graphics/logo-full.svg" alt="MECCFOR - Design & Forniture Componenti Meccanici" class="mc-logo-full"></a></h1>
+				<span><a href="index.php"><img src="assets/graphics/logo-full.svg" alt="MECCFOR - Design & Forniture Componenti Meccanici" class="mc-logo-full"></a></span>
 			</div>
 
 		</header>
 
 
-		<div class="mc-content mc-content-homepage">
-			<img alt="MECCFOR - Design & Forniture Componenti Meccanici" srcset="
-			./assets/graphics/meccfor-cover-home-low.jpg 768w,
-			./assets/graphics/meccfor-cover-home.jpg 1920w
+		<div class="mc-content">
+			<img alt="MECCFOR - Chi Siamo" srcset="
+			./assets/graphics/meccfor-cover-chi-siamo-low.jpg 768w,
+			./assets/graphics/meccfor-cover-chi-siamo.jpg 1920w
 			"
 			sizes="100vw">
 
-			<div class="mc-bigsymbol">
-				<h2 class="mc-tagline">Design & Forniture Componenti Meccanici</h2>
-				<ul id="home-menu" class="mc-menu">
-					<li><a href="#" title="Chi siamo">Chi siamo</a></li>
-					<li><a href="#" title="Servizi">Servizi</a></li>
-					<li><a href="#" title="Forniture">Forniture</a></li>
-					<li><a href="#" title="Download">Download</a></li>
-					<li><a href="#" title="Contatti">Contatti</a></li>
-				</ul>
+			<div class="mc-page-content">
+				<h1 class="mc-page-title">Chi siamo</h1>
+				<p><strong>Meccfor</strong> è un’azienda esperta, dinamica e professionale che opera nel settore della <strong>fornitura di componenti e prodotti finiti</strong> oltre che nella <strong>costruzione di parti a disegno</strong>.</p>
+
+				<p><strong>Meccfor</strong> è in grado di rispondere al meglio alle richieste dei propri clienti in termini di <strong>flessibilità e competenza tecnica</strong>.</p>
+
+				<p>Opera prevalentemente nel mercato nazionale garantendo un ottimo rapporto qualità servizio, in grado di soddisfare anche il cliente più esigente e si propone di creare un rapporto di partnership, con l’obiettivo di fornire un prodotto che soddisfi la propria clientela.</p>
+
+				<h2 class="mc-page-title">Dove siamo</h2>
+				<p>
+					- <strong>Sede Legale</strong> <br>Strada Zarotto, 94, 43122 Parma PR <br>
+					- <strong>Sede Operativa</strong> <br>Via Strada Vicinale della Pieve, 11,  27010 Copiano PV
+				</p>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.4360848663823!2d10.3427408478802!3d44.79230068841309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47806b282f3ed41f%3A0x9b88a3a964ab68c1!2sStrada%20Antonio%20Zarotto%2C%2094%2C%2043123%20Parma%20PR!5e0!3m2!1sen!2sit!4v1631217863262!5m2!1sen!2sit&z=14" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 			</div>
 		</div>
 

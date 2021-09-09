@@ -29,7 +29,7 @@
 	<meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 
-	<title>MECCFOR - Design & Forniture Componenti Meccanici</title>
+	<title>Contatti • MECCFOR - Design & Forniture Componenti Meccanici</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/mc.css">
 </head>
 <body>
@@ -54,28 +54,26 @@
 				</div>
 			</nav>
 			<div class="mc-heading">
-				<h1><a href="index.php"><img src="assets/graphics/logo-full.svg" alt="MECCFOR - Design & Forniture Componenti Meccanici" class="mc-logo-full"></a></h1>
+				<span><a href="index.php"><img src="assets/graphics/logo-full.svg" alt="MECCFOR - Design & Forniture Componenti Meccanici" class="mc-logo-full"></a></span>
 			</div>
 
 		</header>
 
 
-		<div class="mc-content mc-content-homepage">
-			<img alt="MECCFOR - Design & Forniture Componenti Meccanici" srcset="
-			./assets/graphics/meccfor-cover-home-low.jpg 768w,
-			./assets/graphics/meccfor-cover-home.jpg 1920w
+		<div class="mc-content">
+			<img alt="MECCFOR - Download" srcset="
+			./assets/graphics/meccfor-cover-download-low.jpg 768w,
+			./assets/graphics/meccfor-cover-download.jpg 1920w
 			"
 			sizes="100vw">
 
-			<div class="mc-bigsymbol">
-				<h2 class="mc-tagline">Design & Forniture Componenti Meccanici</h2>
-				<ul id="home-menu" class="mc-menu">
-					<li><a href="#" title="Chi siamo">Chi siamo</a></li>
-					<li><a href="#" title="Servizi">Servizi</a></li>
-					<li><a href="#" title="Forniture">Forniture</a></li>
-					<li><a href="#" title="Download">Download</a></li>
-					<li><a href="#" title="Contatti">Contatti</a></li>
-				</ul>
+			<div class="mc-page-content">
+				<h1 class="mc-page-title">Download</h1>
+				<p>Meccfor è un’azienda esperta, dinamica e professionale che opera nel settore della fornitura di componenti e prodotti finiti oltre che nella costruzione di parti a disegno.</p>
+
+				<p>Meccfor è in grado di rispondere al meglio alle richieste dei propri clienti in termini di flessibilità e competenza tecnica.</p>
+
+				<p>Opera prevalentemente nel mercato nazionale garantendo un ottimo rapporto qualità servizio, in grado di soddisfare anche il cliente più esigente e si propone di creare un rapporto di partnership, con l’obiettivo di fornire un prodotto che soddisfi la propria clientela.</p>
 			</div>
 		</div>
 

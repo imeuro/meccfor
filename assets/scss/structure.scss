@@ -176,6 +176,26 @@ body {
 .mc-content {
     position: relative;
     top: 85px;
+    .mc-page-content {
+		padding: 40px 5vw;
+		display: inline-block;
+		.mc-page-title {
+			font-size: 2rem;
+			line-height: 2.5rem;
+			color: $color-blue;
+			padding-bottom: 15px;
+		}
+		p {
+			font-size: 1rem;
+			line-height: 1.25rem;
+			color: $color-grey;
+			padding-bottom: 15px;
+		}
+		b,strong {
+			color: $color-blue;
+			font-weight: 500;
+		}
+    }
 }
 
 .mc-content-homepage {

@@ -141,6 +141,22 @@ body {
 .mc-content {
   position: relative;
   top: 85px; }
+  .mc-content .mc-page-content {
+    padding: 40px 5vw;
+    display: inline-block; }
+    .mc-content .mc-page-content .mc-page-title {
+      font-size: 2rem;
+      line-height: 2.5rem;
+      color: #024189;
+      padding-bottom: 15px; }
+    .mc-content .mc-page-content p {
+      font-size: 1rem;
+      line-height: 1.25rem;
+      color: #5C6062;
+      padding-bottom: 15px; }
+    .mc-content .mc-page-content b, .mc-content .mc-page-content strong {
+      color: #024189;
+      font-weight: 500; }
 
 .mc-content-homepage .mc-bigsymbol {
   background: url(../graphics/logo-symbol.svg) no-repeat top center transparent;
