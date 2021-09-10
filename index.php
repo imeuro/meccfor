@@ -69,6 +69,7 @@
 
 			<div class="mc-bigsymbol">
 				<h2 class="mc-tagline">Design & Forniture Componenti Meccanici</h2>
+<!-- 				
 				<ul id="home-menu" class="mc-menu">
 					<li><a href="chi-siamo" title="Chi siamo">Chi siamo</a></li>
 					<li><a href="servizi" title="Servizi">Servizi</a></li>
@@ -76,6 +77,7 @@
 					<li><a href="download" title="Download">Download</a></li>
 					<li><a href="contatti" title="Contatti">Contatti</a></li>
 				</ul>
+ -->			
 			</div>
 		</div>
 
