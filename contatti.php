@@ -46,8 +46,18 @@
 
 					<ul id="menu">
 						<li><a href="chi-siamo" title="Chi siamo">Chi siamo</a></li>
-						<li><a href="servizi" title="Servizi">Servizi</a></li>
-						<li><a href="forniture" title="Forniture">Forniture</a></li>
+						<li><a href="servizi-design" title="Servizi">Servizi</a>
+							<ul>
+								<li><a href="servizi-design" title="Design">Design</a></li>
+								<li><a href="servizi-in-loco" title="In Loco">In Loco</a></li>
+							</ul>
+						</li>
+						<li><a href="forniture-riduttori" title="Forniture">Forniture</a>
+							<ul>
+								<li><a href="forniture-riduttori" title="Riduttori">Riduttori</a></li>
+								<li><a href="forniture-altro" title="Altro">Altro</a></li>
+							</ul>
+						</li>
 						<li><a href="download" title="Download">Download</a></li>
 						<li><a href="contatti" title="Contatti">Contatti</a></li>
 					</ul>
@@ -61,7 +71,7 @@
 
 
 		<div class="mc-content">
-			<img alt="MECCFOR - Contatti" srcset="
+			<img width="1920" height="1280" alt="MECCFOR - Contatti" srcset="
 			./assets/graphics/meccfor-cover-contatti-low.jpg 768w,
 			./assets/graphics/meccfor-cover-contatti.jpg 1920w
 			"

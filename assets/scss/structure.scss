@@ -10,7 +10,6 @@ body {
 .mc-container {
 	width: 100vw;
 	min-height: 100vh;
-	overflow-x: hidden;
 }
 .mc-header {
 	position: fixed;
@@ -103,7 +102,7 @@ body {
 	  
 	  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
 	              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-	              opacity 0.55s ease;
+	              opacity 0.5s ease;
 	}
 
 	span:first-child b{
@@ -152,7 +151,7 @@ body {
 	height: 100vh;
 	top: -35px;
 	right: -50px;
-	padding: 100px 55px 0 0;
+	padding: 100px 25px 0 55px;
 	background: $color-blue;
 	list-style-type: none;
 	-webkit-font-smoothing: antialiased;
@@ -160,11 +159,15 @@ body {
 	transform: translate(calc(75vw - 25px), 0);
 	transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), box-shadow 0.5s ease-in;
 	box-shadow: 0 0 0px 100vw transparent;
-	@include flex-box(column nowrap,flex-end,flex-start);
-	li {
+	@include flex-box(column nowrap,flex-start,flex-start);
+	& > li {
 		padding: 20px 0;
 		font-size: 22px;
-		text-align: right;
+		text-align: left;
+		ul {
+			padding-left: 30px;
+			li { padding-top: 15px; }
+		}
 	}
 }
 
@@ -191,6 +194,7 @@ body {
 			line-height: 2.5rem;
 			color: $color-blue;
 			padding-bottom: 15px;
+			font-weight: 700;
 		}
 		p {
 			font-size: 1rem;
@@ -222,16 +226,5 @@ body {
 		color: $color-blue;
 		margin-bottom: 40px;
 	}
-	.mc-menu {
-		@include flex-box(column nowrap,center,center);
-		li a {
-			color: $color-grey;
-			font-size: 1.25rem;
-			line-height: 2.75rem;
-			font-weight: 700;
-			text-decoration: none;
-		}
-	}
-
 
 }
