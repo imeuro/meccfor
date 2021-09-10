@@ -45,6 +45,9 @@ button {
   outline: none; }
 
 /* end CSS reset */
+html, body {
+  height: 100%; }
+
 body {
   font-family: "Roboto", sans-serif; }
 
@@ -188,8 +191,8 @@ body {
 .mc-content {
   position: relative;
   top: 85px;
-  height: calc(100vh - 85px);
-  max-height: calc(100vh - 85px);
+  height: calc(100% - 85px);
+  min-height: calc(100% - 85px);
   overflow: hidden; }
   .mc-content .mc-page-content {
     padding: 40px 5vw;
