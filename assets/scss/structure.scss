@@ -167,6 +167,11 @@ body {
 		ul {
 			padding-left: 30px;
 			li { padding-top: 15px; }
+			a:before {
+				content: "- ";
+				margin-left: -20px;
+				margin-right: 10px;
+			}
 		}
 	}
 }
