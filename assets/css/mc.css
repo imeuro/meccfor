@@ -1,5 +1,5 @@
 /* CSS reset */
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 html {
   font-size: 16px; }
 
@@ -45,10 +45,12 @@ button {
   outline: none; }
 
 /* end CSS reset */
-html, body {
-  height: 100%; }
+html {
+  height: -webkit-fill-available; }
 
 body {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
   font-family: "Roboto", sans-serif; }
 
 .mc-container {
@@ -193,7 +195,7 @@ body {
   top: 85px;
   height: calc(100% - 85px);
   min-height: calc(100% - 85px);
-  overflow: hidden; }
+  display: inline-block; }
   .mc-content .mc-page-content {
     padding: 40px 5vw;
     display: inline-block; }
@@ -209,7 +211,7 @@ body {
       padding-bottom: 15px; }
     .mc-content .mc-page-content b, .mc-content .mc-page-content strong {
       color: #024189;
-      font-weight: 500; }
+      font-weight: 700; }
 
 .mc-content-homepage .mc-bigsymbol {
   background: url(../graphics/logo-symbol.svg) no-repeat top center transparent;
@@ -217,11 +219,12 @@ body {
   position: absolute;
   z-index: 1;
   top: 175px;
-  padding: 140px 40px 50px 40px; }
+  padding: 140px 40px 0px 40px;
+  height: calc(100vh - 175px - 85px); }
 .mc-content-homepage .mc-tagline {
   font-size: 2.8rem;
   line-height: 3rem;
-  font-weight: 500;
+  font-weight: 700;
   color: #024189;
   margin-bottom: 40px; }
 .mc-content-homepage .mc-menu {
@@ -233,7 +236,7 @@ body {
     color: #5C6062;
     font-size: 1.25rem;
     line-height: 2.75rem;
-    font-weight: 500;
+    font-weight: 700;
     text-decoration: none; }
 
 /*# sourceMappingURL=mc.css.map */

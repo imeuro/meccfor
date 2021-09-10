@@ -1,6 +1,10 @@
 @import "variables";
-html,body { height: 100%; }
+html {
+	height: -webkit-fill-available;
+}
 body {
+	min-height: 100vh;
+	min-height: -webkit-fill-available;
 	font-family: $roboto;
 }
 .mc-container {
@@ -178,7 +182,7 @@ body {
     top: 85px;
 	height: calc(100% - 85px);
 	min-height: calc(100% - 85px);
-	overflow: hidden;
+	display: inline-block;
     .mc-page-content {
 		padding: 40px 5vw;
 		display: inline-block;
@@ -196,7 +200,7 @@ body {
 		}
 		b,strong {
 			color: $color-blue;
-			font-weight: 500;
+			font-weight: 700;
 		}
     }
 }
@@ -208,12 +212,13 @@ body {
 		position: absolute;
 		z-index: 1;
 		top: 175px;
-		padding: 140px 40px 50px 40px;
+		padding: 140px 40px 0px 40px;
+		height: calc(100vh - 175px - 85px);
 	}
 	.mc-tagline {
 		font-size: 2.8rem;
 		line-height: 3rem;
-		font-weight: 500;
+		font-weight: 700;
 		color: $color-blue;
 		margin-bottom: 40px;
 	}
@@ -223,7 +228,7 @@ body {
 			color: $color-grey;
 			font-size: 1.25rem;
 			line-height: 2.75rem;
-			font-weight: 500;
+			font-weight: 700;
 			text-decoration: none;
 		}
 	}

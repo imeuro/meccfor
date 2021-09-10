@@ -54,7 +54,7 @@
 				</div>
 			</nav>
 			<div class="mc-heading">
-				<h1><a href="index.php"><img src="assets/graphics/logo-full.svg" alt="MECCFOR - Design & Forniture Componenti Meccanici" class="mc-logo-full"></a></h1>
+				<h1><img src="assets/graphics/logo-full.svg" alt="MECCFOR - Design & Forniture Componenti Meccanici" class="mc-logo-full"></h1>
 			</div>
 
 		</header>
