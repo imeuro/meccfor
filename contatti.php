@@ -79,11 +79,21 @@
 
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">Contatti</h1>
-				<p>Meccfor è un’azienda esperta, dinamica e professionale che opera nel settore della fornitura di componenti e prodotti finiti oltre che nella costruzione di parti a disegno.</p>
-
-				<p>Meccfor è in grado di rispondere al meglio alle richieste dei propri clienti in termini di flessibilità e competenza tecnica.</p>
-
-				<p>Opera prevalentemente nel mercato nazionale garantendo un ottimo rapporto qualità servizio, in grado di soddisfare anche il cliente più esigente e si propone di creare un rapporto di partnership, con l’obiettivo di fornire un prodotto che soddisfi la propria clientela.</p>
+				<p><strong>Meccfor srl</strong></p>
+				<p>
+					<strong>Sede Legale:</strong> Strada Zarotto, 94<br>
+					43122 Parma - Italy
+				</p>
+				<p>
+					<strong>Sede Operativa:</strong> Strada Vicinale della Pieve, 11<br>
+					27010 Copiano (PV) Italy
+				</p>
+				<p>
+					<strong>Tel:</strong> +39 3939013957<br>
+					<a href="mailto:sales@meccfor.com"><strong>sales@meccfor.com</strong></a><br>
+					<a href="mailto:meccfor@pec.it"><strong>meccfor@pec.it</strong></a>
+				</p>
+				<p>Partita IVA 02588850343 REA PR 250997</p>
 			</div>
 		</div>
 
