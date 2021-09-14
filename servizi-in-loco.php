@@ -78,12 +78,17 @@
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Servizi</h1>
+				<h1 class="mc-page-title">Servizi • In loco</h1>
 				<p>Meccfor è un’azienda esperta, dinamica e professionale che opera nel settore della fornitura di componenti e prodotti finiti oltre che nella costruzione di parti a disegno.</p>
 
 				<p>Meccfor è in grado di rispondere al meglio alle richieste dei propri clienti in termini di flessibilità e competenza tecnica.</p>
 
 				<p>Opera prevalentemente nel mercato nazionale garantendo un ottimo rapporto qualità servizio, in grado di soddisfare anche il cliente più esigente e si propone di creare un rapporto di partnership, con l’obiettivo di fornire un prodotto che soddisfi la propria clientela.</p>
+
+				<ul class="mc-cat-subpages">
+					<li><a href="servizi-design"><img src="assets/graphics/icon-design.svg" width="282" height="282" alt="Servizi - Design" class="mc-subpages-icons">Design</li>
+					<li><img src="assets/graphics/icon-inloco-current.svg" width="264" height="264" alt="Servizi - in loco" class="mc-subpages-icons">in loco</li>
+				</ul>
 			</div>
 		</div>
 

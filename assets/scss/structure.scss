@@ -198,7 +198,14 @@ body {
 			font-size: 2rem;
 			line-height: 2.5rem;
 			color: $color-blue;
-			padding-bottom: 15px;
+			padding-bottom: 25px;
+			font-weight: 700;
+		}
+		.mc-page-subtitle {
+			font-size: 1.5rem;
+			line-height: 1.5rem;
+			color: $color-blue;
+			padding-bottom: 5px;
 			font-weight: 700;
 		}
 		p {
@@ -211,7 +218,31 @@ body {
 			color: $color-blue;
 			font-weight: 700;
 		}
+		.mc-cat-subpages {
+			@include flex-box(row wrap,flex-start,space-around);
+			margin: 40px 0 20px 0;
+			li {
+				font-size: 1.25rem;
+				color: $color-red;
+				line-height: 64px;
+				margin-bottom: 20px;
+				text-decoration: none;
+				a {
+					color: $color-grey;
+					text-decoration: none;
+					.mc-subpages-icons { fill: none; }
+				}
+				.mc-subpages-icons {
+					width: 64px;
+					height: auto;
+					margin-right: 10px;
+					fill: $color-red;
+				}
+
+			}
+		}
     }
+
 }
 
 .mc-content-homepage {

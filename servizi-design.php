@@ -78,12 +78,26 @@
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Servizi</h1>
-				<p>Meccfor è un’azienda esperta, dinamica e professionale che opera nel settore della fornitura di componenti e prodotti finiti oltre che nella costruzione di parti a disegno.</p>
+				<h1 class="mc-page-title">Servizi • Design</h1>
+				<h2 class="mc-page-subtitle">TEAM QUALIFICATO</h2>
+				<p>La qualità dei prodotti, unita all’esperienza di uno staff tecnico
+				qualificato, permette di soddisfare al meglio le richieste dei clienti.</p>
+				<h2 class="mc-page-subtitle">PROCESSO PRODUTTIVO</h2>
+				<p>Meccfor è in grado di fornire un servizio a 360°, dall’idea al prodotto finito,
+				prestando la massima attenzione in ogni fase del processo produttivo.</p>
+				<h2 class="mc-page-subtitle">MOVIMENTAZIONE DEI FLUIDI</h2>
+				<p>La conoscenza del mercato nel campo della movimentazione
+				dei fluidi permette a Meccfor di fornire prodotti finiti come pompe,
+				valvole, riduttori, ventilatori, raccordi e fittings.</p>
+				<h2 class="mc-page-subtitle">PROGETTAZIONE</h2>
+				<p>Oltre alla consulenza tecnica possono essere forniti disegni 2D e 3D,
+				supporto alla progettazione, prototipazione e campionature
+				e la pre-serie finale.</p>
 
-				<p>Meccfor è in grado di rispondere al meglio alle richieste dei propri clienti in termini di flessibilità e competenza tecnica.</p>
-
-				<p>Opera prevalentemente nel mercato nazionale garantendo un ottimo rapporto qualità servizio, in grado di soddisfare anche il cliente più esigente e si propone di creare un rapporto di partnership, con l’obiettivo di fornire un prodotto che soddisfi la propria clientela.</p>
+				<ul class="mc-cat-subpages">
+					<li><img src="assets/graphics/icon-design-current.svg" width="282" height="282" alt="Servizi - Design" class="mc-subpages-icons">Design</li>
+					<li><a href="servizi-in-loco"><img src="assets/graphics/icon-inloco.svg" width="264" height="264" alt="Servizi - in loco" class="mc-subpages-icons">in loco</a></li>
+				</ul>
 			</div>
 		</div>
 
