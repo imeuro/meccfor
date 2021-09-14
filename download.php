@@ -29,7 +29,7 @@
 	<meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 
-	<title>Contatti • MECCFOR - Design & Forniture Componenti Meccanici</title>
+	<title>Downloads • MECCFOR - Design & Forniture Componenti Meccanici</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/mc.css">
 </head>
 <body>
@@ -78,12 +78,9 @@
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Download</h1>
-				<p>Meccfor è un’azienda esperta, dinamica e professionale che opera nel settore della fornitura di componenti e prodotti finiti oltre che nella costruzione di parti a disegno.</p>
+				<h1 class="mc-page-title">Downloads</h1>
+				<p class="mc-dl-text"><a href="./assets/downloads/quarter-turn-gearboxes-brochure.pdf" target="_blank">Quarter-turn Gearboxes Brochure</a></p>
 
-				<p>Meccfor è in grado di rispondere al meglio alle richieste dei propri clienti in termini di flessibilità e competenza tecnica.</p>
-
-				<p>Opera prevalentemente nel mercato nazionale garantendo un ottimo rapporto qualità servizio, in grado di soddisfare anche il cliente più esigente e si propone di creare un rapporto di partnership, con l’obiettivo di fornire un prodotto che soddisfi la propria clientela.</p>
 			</div>
 		</div>
 

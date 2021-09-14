@@ -78,12 +78,13 @@
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Forniture</h1>
-				<p>Meccfor è un’azienda esperta, dinamica e professionale che opera nel settore della fornitura di componenti e prodotti finiti oltre che nella costruzione di parti a disegno.</p>
+				<h1 class="mc-page-title">Forniture • Altro</h1>
+				<p class="mc-wip-text">Prossimamente</p>
 
-				<p>Meccfor è in grado di rispondere al meglio alle richieste dei propri clienti in termini di flessibilità e competenza tecnica.</p>
-
-				<p>Opera prevalentemente nel mercato nazionale garantendo un ottimo rapporto qualità servizio, in grado di soddisfare anche il cliente più esigente e si propone di creare un rapporto di partnership, con l’obiettivo di fornire un prodotto che soddisfi la propria clientela.</p>
+				<ul class="mc-cat-subpages">
+					<li><a href="forniture-riduttori"><img src="assets/graphics/icon-riduttori.svg" width="264" height="264" alt="Forniture - Riduttori" class="mc-subpages-icons">Riduttori</a></li>
+					<li><img src="assets/graphics/icon-altro-current.svg" width="282" height="282" alt="Forniture - Altro" class="mc-subpages-icons">Altro</li>
+				</ul>
 			</div>
 		</div>
 

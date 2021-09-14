@@ -29,7 +29,7 @@
 	<meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 
-	<title>Contatti • MECCFOR - Design & Forniture Componenti Meccanici</title>
+	<title>Servizi • Design • MECCFOR - Design & Forniture Componenti Meccanici</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/mc.css">
 </head>
 <body>

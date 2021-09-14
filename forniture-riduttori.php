@@ -78,12 +78,27 @@
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Forniture</h1>
-				<p>Meccfor è un’azienda esperta, dinamica e professionale che opera nel settore della fornitura di componenti e prodotti finiti oltre che nella costruzione di parti a disegno.</p>
+				<h1 class="mc-page-title">Forniture • Riduttori</h1>
+				<h2 class="mc-page-subtitle">RIDUTTORI PER VALVOLE</h2>
+				<ul class="mc-list-dotted">
+					<li><p>Meccfor è specializzata nella fornitura di riduttori per valvole a sfera e farfalle ad un quarto di giro.</p></li>
+					<li>
+						<p>L’esperienza trentennale dei tecnici permette una scelta adeguata e la fornitura dell’accoppiamento corretto di un componente che ha una importanza fondamentale nel funzionamento della valvola.</p>
+					</li>
+					<li>
+						<p>Possono essere forniti riduttori con corpo in ghisa oppure in acciaio inossidabile.</p>
+					</li>
+					<li>
+						<p>Assistenza in fase di selezione con la possibilità di realizzare disegni dedicati 2D o 3D.</p>
+					</li>
+				</ul>
 
-				<p>Meccfor è in grado di rispondere al meglio alle richieste dei propri clienti in termini di flessibilità e competenza tecnica.</p>
 
-				<p>Opera prevalentemente nel mercato nazionale garantendo un ottimo rapporto qualità servizio, in grado di soddisfare anche il cliente più esigente e si propone di creare un rapporto di partnership, con l’obiettivo di fornire un prodotto che soddisfi la propria clientela.</p>
+				<ul class="mc-cat-subpages">
+					<li><img src="assets/graphics/icon-riduttori-current.svg" width="264" height="264" alt="Forniture - Riduttori" class="mc-subpages-icons">Riduttori</li>
+					<li><a href="forniture-altro"><img src="assets/graphics/icon-altro.svg" width="282" height="282" alt="Forniture - Altro" class="mc-subpages-icons">Altro</a></li>
+				</ul>
+
 			</div>
 		</div>
 

@@ -188,12 +188,14 @@ body {
 .mc-content {
     position: relative;
     top: 85px;
+    width: 100%;
 	height: calc(100% - 85px);
 	min-height: calc(100% - 85px);
 	display: inline-block;
     .mc-page-content {
 		padding: 40px 5vw;
 		display: inline-block;
+		width: 100%;
 		.mc-page-title {
 			font-size: 2rem;
 			line-height: 2.5rem;
@@ -210,13 +212,52 @@ body {
 		}
 		p {
 			font-size: 1rem;
-			line-height: 1.25rem;
+			line-height: 1.5rem;
 			color: $color-grey;
-			padding-bottom: 15px;
+			padding-bottom: 25px;
 		}
+		.mc-wip-text,
+		.mc-dl-text {
+			color: $color-blue;
+			font-weight: 700;
+			background: url(../graphics/icon-wip.svg) no-repeat right 0 transparent;
+			background-size: 32px;
+			padding-right: 40px;
+			width: fit-content;
+			line-height: 32px;
+		}
+		.mc-dl-text {
+			background: url(../graphics/icon-dl.svg) no-repeat right 0 transparent;
+			background-size: 20px;
+			line-height: 20px;
+			a {
+				color: $color-blue;
+				text-decoration: none;
+			}
+		}
+
 		b,strong {
 			color: $color-blue;
 			font-weight: 700;
+		}
+		.mc-wip-icon { 
+			width: 32px;
+			height: 32px;
+			float: right;
+		}
+		.mc-list-dotted {
+			margin-top: 20px;
+			li:before {
+				content: "";
+				background-color: $color-blue;
+				width: 10px;
+				height: 10px;
+				display: inline-block;
+				float: left;
+				margin-right: 10px;
+				margin-top: 6px;
+			}
+			p { margin-left: 2px; }
 		}
 		.mc-cat-subpages {
 			@include flex-box(row wrap,flex-start,space-around);
