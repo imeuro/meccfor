@@ -9,7 +9,7 @@ body {
 }
 .mc-container {
 	width: 100vw;
-	min-height: 100vh;
+	min-height: 100%;
 }
 .mc-header {
 	position: fixed;
@@ -214,10 +214,8 @@ body {
 
 
 .mc-content {
-    position: relative;
-    top: 85px;
-    width: 100%;
-	height: calc(100% - 85px);
+	margin-top: 85px;
+	width: 100%;
 	min-height: calc(100% - 85px);
 	display: inline-block;
     .mc-page-content {
@@ -327,9 +325,9 @@ body {
 		background-size: 100vw auto;
 		position: absolute;
 		z-index: 1;
-		top: 175px;
+		top: 290px;
 		padding: 140px 35px 0px 35px;
-		height: calc(100vh - 175px - 85px);
+		height: calc(100% - 290px);
 	}
 	.mc-tagline {
 		font-size: 2.8rem;
@@ -338,5 +336,12 @@ body {
 		color: $color-blue;
 		margin-bottom: 40px;
 	}
-
+	footer {
+		position: absolute;
+		bottom: 20px;
+		z-index: 2;
+		font-size: 11px;
+		text-align: center;
+		width: 100%;
+	}
 }
