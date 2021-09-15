@@ -161,7 +161,7 @@ body {
 	box-shadow: 0 0 0px 100vw transparent;
 	@include flex-box(column nowrap,flex-start,flex-start);
 	& > li {
-		padding: 20px 0;
+		padding: 10px 0;
 		font-size: 22px;
 		text-align: left;
 		ul {
@@ -300,7 +300,7 @@ body {
 		position: absolute;
 		z-index: 1;
 		top: 175px;
-		padding: 140px 40px 0px 40px;
+		padding: 140px 35px 0px 35px;
 		height: calc(100vh - 175px - 85px);
 	}
 	.mc-tagline {

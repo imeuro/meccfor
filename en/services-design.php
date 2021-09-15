@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 
-    <meta name="Description" CONTENT="Meccfor è un’azienda esperta, dinamica e professionale che opera nel settore della fornitura di componenti e prodotti finiti oltre che nella costruzione di parti a disegno.">
+    <meta name="Description" CONTENT="Meccfor supplies mechanical components and finished industrial products, as well as handling the construction of manufactured parts according to our customer's designs.">
 
     <meta name=”robots” content="index, nofollow">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,18 +19,18 @@
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="Home | Meccfor"/>
 
-<link rel="apple-touch-icon" sizes="180x180" href="./assets/graphics/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="./assets/graphics/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="./assets/graphics/icons/favicon-16x16.png">
-<link rel="manifest" href="./assets/graphics/icons/site.webmanifest">
-<link rel="mask-icon" href="./assets/graphics/icons/safari-pinned-tab.svg" color="#024189">
-<link rel="shortcut icon" href="./assets/graphics/icons/favicon.ico">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-config" content="./assets/graphics/icons/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
+	<link rel="apple-touch-icon" sizes="180x180" href="../assets/graphics/icons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="../assets/graphics/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="../assets/graphics/icons/favicon-16x16.png">
+	<link rel="manifest" href="../assets/graphics/icons/site.webmanifest">
+	<link rel="mask-icon" href="../assets/graphics/icons/safari-pinned-tab.svg" color="#024189">
+	<link rel="shortcut icon" href="../assets/graphics/icons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-config" content="../assets/graphics/icons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
 
-	<title>Servizi • Design • MECCFOR - Design & Forniture Componenti Meccanici</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/mc.css">
+	<title>Servizi • Design • MECCFOR - Mechanical Components Supplies</title>
+	<link rel="stylesheet" type="text/css" href="../assets/css/mc.css">
 </head>
 <body>
 
@@ -45,26 +45,26 @@
 					<span></span>
 
 					<ul id="menu">
-						<li><a href="chi-siamo" title="Chi siamo">Chi siamo</a></li>
-						<li><a href="servizi-design" title="Servizi">Servizi</a>
+						<li><a href="en/about-us" title="About us">About us</a></li>
+						<li><a href="en/services-design" title="Services">Services</a>
 							<ul>
-								<li><a href="servizi-design" title="Design">Design</a></li>
-								<li><a href="servizi-in-loco" title="In Loco">In Loco</a></li>
+								<li><a href="en/services-design" title="Design">Design</a></li>
+								<li><a href="en/services-on-site" title="On site">On site</a></li>
 							</ul>
 						</li>
-						<li><a href="forniture-riduttori" title="Forniture">Forniture</a>
+						<li><a href="en/products-adapters" title="Products">Products</a>
 							<ul>
-								<li><a href="forniture-riduttori" title="Riduttori">Riduttori</a></li>
-								<li><a href="forniture-altro" title="Altro">Altro</a></li>
+								<li><a href="en/products-adapters" title="Adapters">Adapters</a></li>
+								<li><a href="en/products-others" title="Others">Others</a></li>
 							</ul>
 						</li>
-						<li><a href="download" title="Download">Download</a></li>
-						<li><a href="contatti" title="Contatti">Contatti</a></li>
+						<li><a href="en/download" title="Download">Download</a></li>
+						<li><a href="en/contacts" title="Contacts">Contacts</a></li>
 					</ul>
 				</div>
 			</nav>
 			<div class="mc-heading">
-				<span><a href="./"><img src="assets/graphics/logo-full.svg" width="313" height="88" alt="MECCFOR - Design & Forniture Componenti Meccanici" class="mc-logo-full"></a></span>
+				<span><a href="./"><img src="../assets/graphics/logo-full.svg" width="313" height="88" alt="MECCFOR - Mechanical Components Supplies" class="mc-logo-full"></a></span>
 			</div>
 
 		</header>
@@ -72,8 +72,8 @@
 
 		<div class="mc-content">
 			<img width="1920" height="1280" alt="MECCFOR - Servizi" srcset="
-			./assets/graphics/meccfor-cover-servizi-design-low.jpg 768w,
-			./assets/graphics/meccfor-cover-servizi-design.jpg 1920w
+			../assets/graphics/meccfor-cover-servizi-design-low.jpg 768w,
+			../assets/graphics/meccfor-cover-servizi-design.jpg 1920w
 			"
 			sizes="100vw">
 
@@ -95,8 +95,8 @@
 				e la pre-serie finale.</p>
 
 				<ul class="mc-cat-subpages">
-					<li><img src="assets/graphics/icon-design-current.svg" width="282" height="282" alt="Servizi - Design" class="mc-subpages-icons">Design</li>
-					<li><a href="servizi-in-loco"><img src="assets/graphics/icon-inloco.svg" width="264" height="264" alt="Servizi - in loco" class="mc-subpages-icons">in loco</a></li>
+					<li><img src="../assets/graphics/icon-design-current.svg" width="282" height="282" alt="Servizi - Design" class="mc-subpages-icons">Design</li>
+					<li><a href="servizi-in-loco"><img src="../assets/graphics/icon-inloco.svg" width="264" height="264" alt="Servizi - in loco" class="mc-subpages-icons">in loco</a></li>
 				</ul>
 			</div>
 		</div>
@@ -104,6 +104,6 @@
 
 	</div>
 
-	<script src="assets/js/mc.js"></script>
+	<script src="../assets/js/mc.js"></script>
 </body>
 </html>
