@@ -12,7 +12,7 @@
 
 	<?php include('inc/favicons.php'); ?>
 
-	<title>Contatti • MECCFOR - Mechanical Components Supplies</title>
+	<title>Contacts • MECCFOR - Mechanical Components Supplies</title>
 	<link rel="stylesheet" type="text/css" href="../assets/css/mc.css">
 </head>
 <body>
@@ -39,21 +39,21 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Contatti" srcset="
+			<img width="1920" height="1280" alt="MECCFOR - Contacts" srcset="
 			../assets/graphics/meccfor-cover-contatti-low.jpg 768w,
 			../assets/graphics/meccfor-cover-contatti.jpg 1920w
 			"
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Contatti</h1>
+				<h1 class="mc-page-title">Contacts</h1>
 				<p><strong>Meccfor srl</strong></p>
 				<p>
-					<strong>Sede Legale:</strong> Strada Zarotto, 94<br>
+					<strong>Headquarters:</strong> Strada Zarotto, 94<br>
 					43122 Parma - Italy
 				</p>
 				<p>
-					<strong>Sede Operativa:</strong> Strada Vicinale della Pieve, 11<br>
+					<strong>Factory:</strong> Strada Vicinale della Pieve, 11<br>
 					27010 Copiano (PV) Italy
 				</p>
 				<p>

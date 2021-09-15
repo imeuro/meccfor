@@ -46,15 +46,6 @@
 
 			<div class="mc-bigsymbol">
 				<h2 class="mc-tagline">Mechanical Components Supplies</h2>
-<!-- 				
-				<ul id="home-menu" class="mc-menu">
-					<li><a href="chi-siamo" title="Chi siamo">Chi siamo</a></li>
-					<li><a href="servizi" title="Servizi">Servizi</a></li>
-					<li><a href="forniture" title="Forniture">Forniture</a></li>
-					<li><a href="download" title="Download">Download</a></li>
-					<li><a href="contatti" title="Contatti">Contatti</a></li>
-				</ul>
- -->			
 			</div>
 		</div>
 

@@ -46,7 +46,7 @@
 
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">Downloads</h1>
-				<p class="mc-dl-text"><a href="./assets/downloads/quarter-turn-gearboxes-brochure.pdf" target="_blank">Quarter-turn Gearboxes Brochure</a></p>
+				<p class="mc-dl-text"><a href="../assets/downloads/quarter-turn-gearboxes-brochure.pdf" target="_blank">Quarter-turn Gearboxes Brochure</a></p>
 
 			</div>
 		</div>

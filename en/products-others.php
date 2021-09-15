@@ -12,7 +12,7 @@
 
 	<?php include('inc/favicons.php'); ?>
 
-	<title>Forniture - Altro • MECCFOR - Mechanical Components Supplies</title>
+	<title>Products - Others • MECCFOR - Mechanical Components Supplies</title>
 	<link rel="stylesheet" type="text/css" href="../assets/css/mc.css">
 </head>
 <body>
@@ -38,19 +38,19 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Forniture" srcset="
+			<img width="1920" height="1280" alt="MECCFOR - Products" srcset="
 			../assets/graphics/meccfor-cover-forniture-altro-low.jpg 768w,
 			../assets/graphics/meccfor-cover-forniture-altro.jpg 1920w
 			"
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Forniture • Altro</h1>
+				<h1 class="mc-page-title">Products • Others</h1>
 				<p class="mc-wip-text">Available soon</p>
 
 				<ul class="mc-cat-subpages">
-					<li><a href="forniture-riduttori"><img src="../assets/graphics/icon-riduttori.svg" width="264" height="264" alt="Forniture - Riduttori" class="mc-subpages-icons">Riduttori</a></li>
-					<li><img src="../assets/graphics/icon-altro-current.svg" width="282" height="282" alt="Forniture - Altro" class="mc-subpages-icons">Altro</li>
+					<li><a href="products-adapters"><img src="../assets/graphics/icon-riduttori.svg" width="264" height="264" alt="Products - Adapters" class="mc-subpages-icons">Adapters</a></li>
+					<li><img src="../assets/graphics/icon-altro-current.svg" width="282" height="282" alt="Products - Others" class="mc-subpages-icons">Others</li>
 				</ul>
 			</div>
 		</div>

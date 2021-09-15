@@ -38,19 +38,19 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Servizi" srcset="
+			<img width="1920" height="1280" alt="MECCFOR - Services" srcset="
 			../assets/graphics/meccfor-cover-servizi-in-loco-low.jpg 768w,
 			../assets/graphics/meccfor-cover-servizi-in-loco.jpg 1920w
 			"
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Servizi • In loco</h1>
+				<h1 class="mc-page-title">Services • On site</h1>
 				<p class="mc-wip-text">Available soon</p>
 
 				<ul class="mc-cat-subpages">
-					<li><a href="servizi-design"><img src="../assets/graphics/icon-design.svg" width="282" height="282" alt="Servizi - Design" class="mc-subpages-icons">Design</a></li>
-					<li><img src="../assets/graphics/icon-inloco-current.svg" width="264" height="264" alt="Servizi - in loco" class="mc-subpages-icons">in loco</li>
+					<li><a href="services-design"><img src="../assets/graphics/icon-design.svg" width="282" height="282" alt="Services - Design" class="mc-subpages-icons">Design</a></li>
+					<li><img src="../assets/graphics/icon-inloco-current.svg" width="264" height="264" alt="Services - on site" class="mc-subpages-icons">in loco</li>
 				</ul>
 			</div>
 		</div>

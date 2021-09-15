@@ -20,7 +20,7 @@
 	<meta name="msapplication-config" content="./assets/graphics/icons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 
-	<title>Forniture - Riduttori • MECCFOR - Mechanical Components Supplies</title>
+	<title>Products - Adapters • MECCFOR - Mechanical Components Supplies</title>
 	<link rel="stylesheet" type="text/css" href="../assets/css/mc.css">
 </head>
 <body>
@@ -46,32 +46,33 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Forniture" srcset="
+			<img width="1920" height="1280" alt="MECCFOR - Products" srcset="
 			../assets/graphics/meccfor-cover-forniture-riduttori-low.jpg 768w,
 			../assets/graphics/meccfor-cover-forniture-riduttori.jpg 1920w
 			"
 			sizes="100vw">
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Forniture • Riduttori</h1>
-				<h2 class="mc-page-subtitle">RIDUTTORI PER VALVOLE</h2>
+				<h1 class="mc-page-title">Products • Adapters</h1>
+				<h2 class="mc-page-subtitle">GEARBOX VALVE ADAPTERS</h2>
 				<ul class="mc-list-dotted">
-					<li><p>Meccfor è specializzata nella fornitura di riduttori per valvole a sfera e farfalle ad un quarto di giro.</p></li>
 					<li>
-						<p>L’esperienza trentennale dei tecnici permette una scelta adeguata e la fornitura dell’accoppiamento corretto di un componente che ha una importanza fondamentale nel funzionamento della valvola.</p>
+						<p>Meccfor is specialized in supply of gearbox quarter turn dvices for the operation of ball, butterfly and plug valves.</p></li>
+					<li>
+						<p>30 years of experience of our technicians assure a correct and reliable supply for a component which is very important for the correct function of the valve.</p>
 					</li>
 					<li>
-						<p>Possono essere forniti riduttori con corpo in ghisa oppure in acciaio inossidabile.</p>
+						<p>Gearbox could be supplied with cast iron or stainless steel case.</p>
 					</li>
 					<li>
-						<p>Assistenza in fase di selezione con la possibilità di realizzare disegni dedicati 2D o 3D.</p>
+						<p>Assistance in selection phase with the possibility to realize dedicated 2D and 3D drawings.</p>
 					</li>
 				</ul>
 
 
 				<ul class="mc-cat-subpages">
-					<li><img src="../assets/graphics/icon-riduttori-current.svg" width="264" height="264" alt="Forniture - Riduttori" class="mc-subpages-icons">Riduttori</li>
-					<li><a href="forniture-altro"><img src="../assets/graphics/icon-altro.svg" width="282" height="282" alt="Forniture - Altro" class="mc-subpages-icons">Altro</a></li>
+					<li><img src="../assets/graphics/icon-riduttori-current.svg" width="264" height="264" alt="Products - Adapters" class="mc-subpages-icons">Adapters</li>
+					<li><a href="products-others"><img src="../assets/graphics/icon-altro.svg" width="282" height="282" alt="Products - Others" class="mc-subpages-icons">Others</a></li>
 				</ul>
 
 			</div>
