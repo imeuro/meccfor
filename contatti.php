@@ -90,8 +90,8 @@
 				</p>
 				<p>
 					<strong>Tel:</strong> +39 3939013957<br>
-					<a href="mailto:sales@meccfor.com"><strong>sales@meccfor.com</strong></a><br>
-					<a href="mailto:meccfor@pec.it"><strong>meccfor@pec.it</strong></a>
+					<a class="mc-mailer" href="#" data-user="sales" data-domain="meccfor.com"></a><br>
+					<a class="mc-mailer" href="#" data-user="meccfor" data-domain="pec.it"></a>
 				</p>
 				<p>Partita IVA 02588850343 REA PR 250997</p>
 			</div>
