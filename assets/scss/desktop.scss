@@ -2,6 +2,11 @@
 @media all and (min-width: 1024px) {
 	.mc-header { 
 		background: transparent; 
+		.mc-heading {
+			height: 100vh;
+			width: 50vw;
+			background-size: 37.7vw;
+		}
 		.mc-heading:before {
 			width: 100vw;
 			height: 100vw;
@@ -9,13 +14,13 @@
 			left: -50vw;
 		}
 		.mc-logo-full {
-			width: 30vw;
-			padding: 24px 21px;
+			width: 400px;
+			padding: 24px 45px;
 		}
 		#menuToggle {
 			position: relative;
 			z-index: 10;
-			left: 33vw;
+			left: 38vw;
 			top: 15px;
 			span { display: none; }
 			#menu{ 
@@ -37,6 +42,7 @@
 				}
 			}
 			a { color: #5c6062; }
+			a:hover { border-bottom: 3px solid $color-blue;}
 		}
 	}
 	.mc-content {
@@ -48,7 +54,12 @@
 			object-fit: cover;
 		}
 		.mc-page-content {
+			background: #f8f8f8;
 			padding-left: 50vw;
+		}
+		footer {
+			background-color: #d0d0d0;
+			padding: 5px;
 		}
 	}
 
@@ -63,6 +74,9 @@
 			font-size: 3.5rem;
 			line-height: 3.5rem;
 		}
+		footer {
+			background-color: transparent;
+		}
 	}
 
 
@@ -70,5 +84,39 @@
 }
 
 @media all and (min-width: 1280px) {
-	
+	.mc-header { 
+		.mc-heading {
+			background-size: 32.4vw;
+		}
+		.mc-heading:before {
+			top: -60vw;
+		}
+		#menuToggle {
+			left: 33vw;
+		}
+	}
+
+	.mc-content {
+		.mc-page-content {
+			padding-left: 45vw;
+		}
+	}
+}
+
+
+@media all and (min-width: 1680px) {
+	.mc-header { 
+		.mc-heading {
+			background-size: 29vw;
+		}
+		.mc-heading:before {
+			top: -66vw;
+		}
+	} 
+
+	.mc-content {
+		.mc-page-content {
+			padding-left: 40vw;
+		}
+	}
 }
