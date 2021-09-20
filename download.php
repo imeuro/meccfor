@@ -42,13 +42,16 @@
 			./assets/graphics/meccfor-cover-download-low.jpg 768w,
 			./assets/graphics/meccfor-cover-download.jpg 1920w
 			"
-			sizes="100vw">
+			sizes="100vw" class="mc-cover-image">
 
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">Downloads</h1>
 				<p class="mc-dl-text"><a href="./assets/downloads/quarter-turn-gearboxes-brochure.pdf" target="_blank">Quarter-turn Gearboxes Brochure</a></p>
 
 			</div>
+			
+			<footer>&copy; Meccfor srl - All right reserved - VAT n. 02588850343</footer>
+
 		</div>
 
 

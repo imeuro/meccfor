@@ -42,7 +42,7 @@
 			./assets/graphics/meccfor-cover-forniture-altro-low.jpg 768w,
 			./assets/graphics/meccfor-cover-forniture-altro.jpg 1920w
 			"
-			sizes="100vw">
+			sizes="100vw" class="mc-cover-image">
 
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">Forniture • Altro</h1>
@@ -53,6 +53,9 @@
 					<li><img src="assets/graphics/icon-altro-current.svg" width="282" height="282" alt="Forniture - Altro" class="mc-subpages-icons">Altro</li>
 				</ul>
 			</div>
+			
+			<footer>&copy; Meccfor srl - All right reserved - VAT n. 02588850343</footer>
+
 		</div>
 
 

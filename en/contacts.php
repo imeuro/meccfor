@@ -43,7 +43,7 @@
 			../assets/graphics/meccfor-cover-contatti-low.jpg 768w,
 			../assets/graphics/meccfor-cover-contatti.jpg 1920w
 			"
-			sizes="100vw">
+			sizes="100vw" class="mc-cover-image">
 
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">Contacts</h1>
@@ -63,6 +63,9 @@
 				</p>
 				<p>Partita IVA 02588850343 REA PR 250997</p>
 			</div>
+
+			<footer>&copy; Meccfor srl - All right reserved - VAT n. 02588850343</footer>
+			
 		</div>
 
 

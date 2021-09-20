@@ -218,7 +218,7 @@ body {
 	width: 100%;
 	min-height: calc(100% - 85px);
 	display: inline-block;
-    .mc-page-content {
+	.mc-page-content {
 		padding: 40px 5vw;
 		display: inline-block;
 		width: 100%;
@@ -315,8 +315,12 @@ body {
 			text-decoration: none;
 			display: inline-block;
 		}
-    }
-
+	}
+	footer {
+		font-size: 11px;
+		text-align: center;
+		width: 100%;
+	}
 }
 
 .mc-content-homepage {
@@ -340,8 +344,5 @@ body {
 		position: absolute;
 		bottom: 20px;
 		z-index: 2;
-		font-size: 11px;
-		text-align: center;
-		width: 100%;
 	}
 }

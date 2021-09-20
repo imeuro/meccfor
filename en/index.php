@@ -42,11 +42,14 @@
 			../assets/graphics/meccfor-cover-home-low.jpg 768w,
 			../assets/graphics/meccfor-cover-home.jpg 1920w
 			"
-			sizes="100vw">
+			sizes="100vw" class="mc-cover-image">
 
 			<div class="mc-bigsymbol">
 				<h2 class="mc-tagline">Mechanical Components Supplies</h2>
 			</div>
+
+			<footer>&copy; Meccfor srl - All right reserved - VAT n. 02588850343</footer>
+			
 		</div>
 
 

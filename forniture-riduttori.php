@@ -42,7 +42,7 @@
 			./assets/graphics/meccfor-cover-forniture-riduttori-low.jpg 768w,
 			./assets/graphics/meccfor-cover-forniture-riduttori.jpg 1920w
 			"
-			sizes="100vw">
+			sizes="100vw" class="mc-cover-image">
 
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">Forniture • Riduttori</h1>
@@ -67,6 +67,9 @@
 				</ul>
 
 			</div>
+			
+			<footer>&copy; Meccfor srl - All right reserved - VAT n. 02588850343</footer>
+
 		</div>
 
 

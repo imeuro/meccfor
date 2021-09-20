@@ -42,7 +42,7 @@
 			../assets/graphics/meccfor-cover-servizi-in-loco-low.jpg 768w,
 			../assets/graphics/meccfor-cover-servizi-in-loco.jpg 1920w
 			"
-			sizes="100vw">
+			sizes="100vw" class="mc-cover-image">
 
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">Services • On site</h1>
@@ -53,6 +53,9 @@
 					<li><img src="../assets/graphics/icon-inloco-current.svg" width="264" height="264" alt="Services - on site" class="mc-subpages-icons">in loco</li>
 				</ul>
 			</div>
+			
+			<footer>&copy; Meccfor srl - All right reserved - VAT n. 02588850343</footer>
+			
 		</div>
 
 

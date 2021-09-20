@@ -1,8 +1,71 @@
-@media all and (min-width: 640px) {
-	.mc-logo-full {
-		width: 315px;
-		padding: 24px 21px;
+@import "variables";
+@media all and (min-width: 1024px) {
+	.mc-header { 
+		background: transparent; 
+		.mc-heading:before {
+			width: 100vw;
+			height: 100vw;
+			top: -50vw;
+			left: -50vw;
+		}
+		.mc-logo-full {
+			width: 30vw;
+			padding: 24px 21px;
+		}
+		#menuToggle {
+			position: relative;
+			z-index: 10;
+			left: 33vw;
+			top: 15px;
+			span { display: none; }
+			#menu{ 
+				transform: none;
+				width:200px;
+				padding: 0;
+				position: absolute;
+				left: 0;
+				top: 10px;
+				background: transparent;
+				font-weight: 700;
+				li ul { display: none; }
+				li ul#lang {
+					@include flex-box(row nowrap,center,space-between);
+					position: fixed;
+					top: 15px;
+					right: 30px;
+					margin: 0;
+				}
+			}
+			a { color: #5c6062; }
+		}
 	}
+	.mc-content {
+		height: 100vh;
+    min-height: initial;
+    margin-top: 0;
+		img.mc-cover-image { 
+			height: 100%;
+			object-fit: cover;
+		}
+		.mc-page-content {
+			padding-left: 50vw;
+		}
+	}
+
+	.mc-content-homepage {
+		.mc-bigsymbol {
+			background: none;
+			z-index: 10;
+			width: 420px;
+			top: 70px;
+		}
+		.mc-tagline {
+			font-size: 3.5rem;
+			line-height: 3.5rem;
+		}
+	}
+
+
 
 }
 
