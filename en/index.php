@@ -39,7 +39,7 @@
 
 		<div class="mc-content mc-content-homepage">
 			<img width="1920" height="1280" alt="MECCFOR - Mechanical Components Supplies" srcset="
-			../assets/graphics/meccfor-cover-home-low.jpg 768w,
+			../assets/graphics/meccfor-cover-home-low.jpg 960w,
 			../assets/graphics/meccfor-cover-home.jpg 1920w
 			"
 			sizes="100vw" class="mc-cover-image">
