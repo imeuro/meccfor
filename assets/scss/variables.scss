@@ -4,6 +4,12 @@ $color-grey: #5C6062;
 $color-blue: #024189;
 $color-red: #E30613; 
 
+$page-left-margin: 388px;
+$base-header: 1024px;
+
+
+
+
 @mixin flex-box($layout:row, $align:center, $justify:space-between) {
 	display: flex;
 	flex-flow: $layout;

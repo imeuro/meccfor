@@ -3,24 +3,24 @@
 	.mc-header { 
 		background: transparent; 
 		.mc-heading {
-			height: 100vh;
-			width: 50vw;
-			background-size: 37.7vw;
+			height: 550px;
+			width: $page-left-margin;
+			background-size: $page-left-margin;
 		}
 		.mc-heading:before {
-			width: 100vw;
-			height: 100vw;
-			top: -50vw;
-			left: -50vw;
+			width: $base-header;
+			height: $base-header;
+			top: $base-header * -0.5;
+			left: $base-header * -0.5;
 		}
 		.mc-logo-full {
-			width: 400px;
-			padding: 24px 45px;
+			width: $base-header * 0.33;
+			padding: 28px 44px;
 		}
 		#menuToggle {
 			position: relative;
 			z-index: 10;
-			left: 38vw;
+			left: $page-left-margin;
 			top: 15px;
 			span { display: none; }
 			#menu{ 
@@ -50,17 +50,26 @@
 		margin-top: 0;
 		display: block;
 		img.mc-cover-image { 
-			height: 100vh;
+			height: 350px;
 			width: 100%;
 			object-fit: cover;
 		}
 		.mc-page-content {
 			background: #f8f8f8;
-			padding-left: 50vw;
+			padding-left: $page-left-margin;
+			min-height: calc(100vh - 30px - 350px);
+			.mc-cat-subpages {
+				position: fixed;
+				left: 15px;
+				top: 470px;
+				z-index: 10;
+				flex-flow: column nowrap;
+			}
 		}
 		footer {
 			background-color: #d0d0d0;
-			padding: 5px;
+			height: 30px;
+			@include flex-box(row nowrap,center,center);
 		}
 	}
 
@@ -84,40 +93,39 @@
 
 }
 
-@media all and (min-width: 1280px) {
-	.mc-header { 
-		.mc-heading {
-			background-size: 32.4vw;
-		}
-		.mc-heading:before {
-			top: -60vw;
-		}
+@media all and (min-width: 1440px) {
+	$page-left-margin: 435px;
+	$base-header: 1152px;
+	.mc-header {
 		#menuToggle {
-			left: 33vw;
+			left: $page-left-margin;
 		}
-	}
-
-	.mc-content {
-		.mc-page-content {
-			padding-left: 45vw;
-		}
-	}
-}
-
-
-@media all and (min-width: 1680px) {
-	.mc-header { 
 		.mc-heading {
-			background-size: 29vw;
+			height: 611px;
+			width: $page-left-margin;
+			background-size: $page-left-margin;
 		}
 		.mc-heading:before {
-			top: -66vw;
+			width: $base-header;
+			height: $base-header;
+			top: $base-header * -0.5;
+			left: $base-header * -0.5;
 		}
-	} 
+		.mc-logo-full {
+			width: $base-header * 0.33;
+			padding: 32px 52px;
+		}
+	}
 
 	.mc-content {
+		img.mc-cover-image {
+			height: 395px;
+		}
 		.mc-page-content {
-			padding-left: 40vw;
+			padding-left: $page-left-margin;
+			.mc-cat-subpages {
+				top: 540px;
+			}
 		}
 	}
 }
