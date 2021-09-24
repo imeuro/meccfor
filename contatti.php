@@ -38,14 +38,13 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Contatti" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Contatti" title="MECCFOR - Contatti" srcset="
 			./assets/graphics/meccfor-cover-contatti-low.jpg 768w,
 			./assets/graphics/meccfor-cover-contatti.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Contatti</h1>
 				<p><strong>Meccfor srl</strong></p>
 				<p>
 					<strong>Sede Legale:</strong> Strada Zarotto, 94<br>

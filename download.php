@@ -38,14 +38,13 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Download" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Download" title="MECCFOR - Download" srcset="
 			./assets/graphics/meccfor-cover-download-low.jpg 768w,
 			./assets/graphics/meccfor-cover-download.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Downloads</h1>
 				<p class="mc-dl-text"><a href="./assets/downloads/quarter-turn-gearboxes-brochure.pdf" target="_blank">Quarter-turn Gearboxes Brochure</a></p>
 
 			</div>

@@ -38,14 +38,13 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Forniture" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Forniture • Riduttori" title="MECCFOR - Forniture • Riduttori" srcset="
 			./assets/graphics/meccfor-cover-forniture-riduttori-low.jpg 768w,
 			./assets/graphics/meccfor-cover-forniture-riduttori.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Forniture • Riduttori</h1>
 				<h2 class="mc-page-subtitle">RIDUTTORI PER VALVOLE</h2>
 				<ul class="mc-list-dotted">
 					<li><p>Meccfor è specializzata nella fornitura di riduttori per valvole a sfera e farfalle ad un quarto di giro.</p></li>

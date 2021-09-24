@@ -38,14 +38,13 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Chi Siamo" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Chi Siamo" title="MECCFOR - Chi Siamo" srcset="
 			./assets/graphics/meccfor-cover-chi-siamo-low.jpg 768w,
 			./assets/graphics/meccfor-cover-chi-siamo.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Chi siamo</h1>
 				<p><strong>Meccfor</strong> è un’azienda esperta, dinamica e professionale che opera nel settore della <strong>fornitura di componenti e prodotti finiti</strong> oltre che nella <strong>costruzione di parti a disegno</strong>.</p>
 
 				<p><strong>Meccfor</strong> è in grado di rispondere al meglio alle richieste dei propri clienti in termini di <strong>flessibilità e competenza tecnica</strong>.</p>

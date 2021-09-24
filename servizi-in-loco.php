@@ -38,11 +38,11 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Servizi" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Servizi • In loco" title="MECCFOR - Servizi • In loco" srcset="
 			./assets/graphics/meccfor-cover-servizi-in-loco-low.jpg 768w,
 			./assets/graphics/meccfor-cover-servizi-in-loco.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">Servizi • In loco</h1>

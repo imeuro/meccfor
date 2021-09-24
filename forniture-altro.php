@@ -38,14 +38,13 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Forniture" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Forniture • Altro" title="MECCFOR - Forniture • Altro" srcset="
 			./assets/graphics/meccfor-cover-forniture-altro-low.jpg 768w,
 			./assets/graphics/meccfor-cover-forniture-altro.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Forniture • Altro</h1>
 				<p class="mc-wip-text">Prossimamente</p>
 
 				<ul class="mc-cat-subpages">

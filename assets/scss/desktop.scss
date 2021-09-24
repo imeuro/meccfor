@@ -3,7 +3,7 @@
 	.mc-header { 
 		background: transparent; 
 		.mc-heading {
-			height: 550px;
+			height: 610px;
 			width: $page-left-margin;
 			background-size: $page-left-margin;
 		}
@@ -15,7 +15,7 @@
 		}
 		.mc-logo-full {
 			width: $base-header * 0.33;
-			padding: 28px 44px;
+			padding: 32px 52px;
 		}
 		#menuToggle {
 			position: relative;
@@ -26,6 +26,7 @@
 			#menu{ 
 				transform: none;
 				width:200px;
+				height: auto;
 				padding: 0;
 				position: absolute;
 				left: 0;
@@ -50,7 +51,7 @@
 		margin-top: 0;
 		display: block;
 		img.mc-cover-image { 
-			height: 350px;
+			height: 395px;
 			width: 100%;
 			object-fit: cover;
 		}
@@ -58,10 +59,11 @@
 			background: #f8f8f8;
 			padding-left: $page-left-margin;
 			min-height: calc(100vh - 30px - 350px);
+			p { font-size: 1.25rem; }
 			.mc-cat-subpages {
 				position: fixed;
 				left: 15px;
-				top: 470px;
+				top: 550px;
 				z-index: 10;
 				flex-flow: column nowrap;
 			}
@@ -94,14 +96,14 @@
 }
 
 @media all and (min-width: 1440px) {
-	$page-left-margin: 435px;
-	$base-header: 1152px;
+	$page-left-margin: 482px;
+	$base-header: 1280px;
 	.mc-header {
 		#menuToggle {
 			left: $page-left-margin;
 		}
 		.mc-heading {
-			height: 611px;
+			height: 680px;
 			width: $page-left-margin;
 			background-size: $page-left-margin;
 		}
@@ -119,12 +121,12 @@
 
 	.mc-content {
 		img.mc-cover-image {
-			height: 395px;
+			height: 439px;
 		}
 		.mc-page-content {
 			padding-left: $page-left-margin;
 			.mc-cat-subpages {
-				top: 540px;
+				top: 600px;
 			}
 		}
 	}
