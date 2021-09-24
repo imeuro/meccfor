@@ -38,14 +38,13 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Services" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Services • on site" title="MECCFOR - Services • on site" srcset="
 			../assets/graphics/meccfor-cover-servizi-in-loco-low.jpg 768w,
 			../assets/graphics/meccfor-cover-servizi-in-loco.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Services • On site</h1>
 				<p class="mc-wip-text">Available soon</p>
 
 				<ul class="mc-cat-subpages">

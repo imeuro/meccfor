@@ -38,15 +38,13 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - About Us" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - About Us" title="MECCFOR - About Us" srcset="
 			../assets/graphics/meccfor-cover-chi-siamo-low.jpg 768w,
 			../assets/graphics/meccfor-cover-chi-siamo.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">About Us</h1>
-
 				<p><strong>Meccfor</strong> Meccfor is one expert, dynamic and professional company operating in supply of components and final products in addition to construction of parts manufactured according to the customer design.</p>
 
 				<p><strong>Meccfor</strong> has the possibility to answer at customer requests in terms of flexibility and technical competence.</p>

@@ -38,14 +38,13 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Services" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Services • Design" title="MECCFOR - Services • Design" srcset="
 			../assets/graphics/meccfor-cover-servizi-design-low.jpg 768w,
 			../assets/graphics/meccfor-cover-servizi-design.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Services • Design</h1>
 				<h2 class="mc-page-subtitle">QUALIFIED TEAM</h2>
 				<p>Quality of products, joint with the experience of qualified technical staff, satisfy customer request.</p>
 				<h2 class="mc-page-subtitle">PRODUCTION PROCESS</h2>
@@ -53,7 +52,7 @@
 				<h2 class="mc-page-subtitle">FLUID MANAGEMENT</h2>
 				<p>Meccfor know very well the market of fluid’s movement and could supply products as valves, pumps, fans, gearbox for valves and fittings.</p>
 				<h2 class="mc-page-subtitle">DESIGN</h2>
-				<p>Meccfor could supply 2D and 3D drawings and technical consultant, support to the project, makeprototypes and final pre-series.</p>
+				<p>Meccfor could supply 2D and 3D drawings and technical consultant, support to the project, make prototypes and final pre-series, mainly for any type of valves and gearbox for valves.</p>
 
 				<ul class="mc-cat-subpages">
 					<li><img src="../assets/graphics/icon-design-current.svg" width="282" height="282" alt="Services - Design" class="mc-subpages-icons">Design</li>

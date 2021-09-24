@@ -20,7 +20,7 @@
 	<meta name="msapplication-config" content="./assets/graphics/icons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 
-	<title>Products - Adapters • MECCFOR - Mechanical Components Supplies</title>
+	<title>Products - Gear • MECCFOR - Mechanical Components Supplies</title>
 	<link rel="stylesheet" type="text/css" href="../assets/css/mc.css">
 </head>
 <body>
@@ -46,15 +46,14 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Products" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Products • Gear" title="MECCFOR - Products • Gear" srcset="
 			../assets/graphics/meccfor-cover-forniture-riduttori-low.jpg 768w,
 			../assets/graphics/meccfor-cover-forniture-riduttori.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Products • Adapters</h1>
-				<h2 class="mc-page-subtitle">GEARBOX VALVE ADAPTERS</h2>
+				<h2 class="mc-page-subtitle">GEARBOX FOR VALVES</h2>
 				<ul class="mc-list-dotted">
 					<li>
 						<p>Meccfor is specialized in supply of gearbox quarter turn dvices for the operation of ball, butterfly and plug valves.</p></li>
@@ -71,7 +70,7 @@
 
 
 				<ul class="mc-cat-subpages">
-					<li><img src="../assets/graphics/icon-riduttori-current.svg" width="264" height="264" alt="Products - Adapters" class="mc-subpages-icons">Adapters</li>
+					<li><img src="../assets/graphics/icon-riduttori-current.svg" width="264" height="264" alt="Products - Gear" class="mc-subpages-icons">Gear</li>
 					<li><a href="products-others"><img src="../assets/graphics/icon-altro.svg" width="282" height="282" alt="Products - Others" class="mc-subpages-icons">Others</a></li>
 				</ul>
 

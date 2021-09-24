@@ -6,9 +6,9 @@
 			<li><a href="services-on-site" title="On site">On site</a></li>
 		</ul>
 	</li>
-	<li><a href="products-adapters" title="Products">Products</a>
+	<li><a href="products-gear" title="Products">Products</a>
 		<ul>
-			<li><a href="products-adapters" title="Adapters">Adapters</a></li>
+			<li><a href="products-gear" title="Gear">Gear</a></li>
 			<li><a href="products-others" title="Others">Others</a></li>
 		</ul>
 	</li>

@@ -39,29 +39,26 @@
 
 
 		<div class="mc-content">
-			<img width="1920" height="1280" alt="MECCFOR - Contacts" srcset="
+			<h1><img width="1920" height="1280" alt="MECCFOR - Contacts" title="MECCFOR - Contacts" srcset="
 			../assets/graphics/meccfor-cover-contatti-low.jpg 768w,
 			../assets/graphics/meccfor-cover-contatti.jpg 1920w
 			"
-			sizes="100vw" class="mc-cover-image">
+			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h1 class="mc-page-title">Contacts</h1>
 				<p><strong>Meccfor srl</strong></p>
 				<p>
-					<strong>Headquarters:</strong> Strada Zarotto, 94<br>
+					<strong>Legal Office:</strong> Strada Zarotto, 94<br>
 					43122 Parma - Italy
 				</p>
 				<p>
-					<strong>Factory:</strong> Strada Vicinale della Pieve, 11<br>
+					<strong>Headquarter:</strong> Strada Vicinale della Pieve, 11<br>
 					27010 Copiano (PV) Italy
 				</p>
 				<p>
-					<strong>Tel:</strong> +39 3939013957<br>
 					<a class="mc-mailer" href="#" data-user="sales" data-domain="meccfor.com"></a><br>
 					<a class="mc-mailer" href="#" data-user="meccfor" data-domain="pec.it"></a>
 				</p>
-				<p>Partita IVA 02588850343 REA PR 250997</p>
 			</div>
 
 			<footer>&copy; Meccfor srl - All right reserved - VAT n. 02588850343</footer>

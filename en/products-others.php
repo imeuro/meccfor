@@ -49,7 +49,7 @@
 				<p class="mc-wip-text">Available soon</p>
 
 				<ul class="mc-cat-subpages">
-					<li><a href="products-adapters"><img src="../assets/graphics/icon-riduttori.svg" width="264" height="264" alt="Products - Adapters" class="mc-subpages-icons">Adapters</a></li>
+					<li><a href="products-gear"><img src="../assets/graphics/icon-riduttori.svg" width="264" height="264" alt="Products - Gear" class="mc-subpages-icons">Gear</a></li>
 					<li><img src="../assets/graphics/icon-altro-current.svg" width="282" height="282" alt="Products - Others" class="mc-subpages-icons">Others</li>
 				</ul>
 			</div>
