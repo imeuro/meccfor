@@ -50,6 +50,9 @@
 		min-height: 100%;
 		margin-top: 0;
 		display: block;
+		&>h1 {
+			margin-left: $page-left-margin - 15;
+		}
 		img.mc-cover-image { 
 			height: 395px;
 			width: 100%;
@@ -123,6 +126,9 @@
 	}
 
 	.mc-content {
+		&>h1 {
+			margin-left: $page-left-margin - 15;
+		}
 		img.mc-cover-image {
 			height: 439px;
 		}
