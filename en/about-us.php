@@ -47,11 +47,11 @@
 			<div class="mc-page-content">
 				<h1 class="mc-page-title">About Us</h1>
 
-				<p><strong>Meccfor</strong> is an expert, dynamic and professional company that supplies <strong>mechanical components and finished industrial products</strong>, as well as handling the construction of manufactured parts according to our customer's designs.</p>
+				<p><strong>Meccfor</strong> Meccfor is one expert, dynamic and professional company operating in supply of components and final products in addition to construction of parts manufactured according to the customer design.</p>
 
-				<p><strong>Meccfor</strong> has the capability to answer any customer requests in terms of <strong>flexibility and technical competence</strong>.</p>
+				<p><strong>Meccfor</strong> has the possibility to answer at customer requests in terms of flexibility and technical competence.</p>
 
-				<p><strong>Meccfor</strong> works mainly in domestic market with an optimal quality/service ratio. We are focused on fullfilling the most challenging requests and we aim to create strong partnerships, in order to supply a product which can satisfy the customer.</p>
+				<p><strong>Meccfor</strong> Meccfor works mainly in domestic market with one optimal ratio quality-service, able to satisfy the customer and create a partnership in order to supply a product which can satisfy the customer.</p>
 
 				<h2 class="mc-page-title">Our sites</h2>
 				<p>

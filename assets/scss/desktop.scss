@@ -58,7 +58,7 @@
 		.mc-page-content {
 			background: #f8f8f8;
 			padding-left: $page-left-margin;
-			min-height: calc(100vh - 30px - 350px);
+			min-height: calc(100vh - 30px - 395px);
 			p { font-size: 1.25rem; }
 			.mc-cat-subpages {
 				position: fixed;
@@ -85,6 +85,9 @@
 		.mc-tagline {
 			font-size: 3.5rem;
 			line-height: 3.5rem;
+		}
+		img.mc-cover-image { 
+			height: 100vh;
 		}
 		footer {
 			background-color: transparent;
@@ -125,9 +128,15 @@
 		}
 		.mc-page-content {
 			padding-left: $page-left-margin;
+			min-height: calc(100vh - 30px - 439px);
 			.mc-cat-subpages {
 				top: 600px;
 			}
+		}
+	}
+	.mc-content-homepage {
+		img.mc-cover-image { 
+			height: 100vh;
 		}
 	}
 }
