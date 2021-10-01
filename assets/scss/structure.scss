@@ -346,3 +346,23 @@ body {
 		z-index: 2;
 	}
 }
+
+
+// fix per safari su iphone vecchietti (< 7)
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 667px) 
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) { 
+
+	.mc-content-homepage {
+		.mc-bigsymbol {
+			padding-top: 100px;
+		}
+		.mc-tagline {
+			font-size: 2.25rem;
+			line-height: 2.25rem
+		}
+	}
+
+}
