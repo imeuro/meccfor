@@ -56,7 +56,7 @@
 					- <strong>Sede Legale</strong> <br>Strada Zarotto, 94, 43122 Parma PR <br>
 					- <strong>Sede Operativa</strong> <br>Via Strada Vicinale della Pieve, 11,  27010 Copiano PV
 				</p>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.4360848663823!2d10.3427408478802!3d44.79230068841309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47806b282f3ed41f%3A0x9b88a3a964ab68c1!2sStrada%20Antonio%20Zarotto%2C%2094%2C%2043123%20Parma%20PR!5e0!3m2!1sen!2sit!4v1631217863262!5m2!1sen!2sit&z=14" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2811.370311716069!2d9.32528788154715!3d45.19984150031902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47872a5e1402fb01%3A0x2528f8f35d247c79!2sMeccfor!5e0!3m2!1sen!2sit!4v1633081094090!5m2!1sen!2sit" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 			</div>
 			
 			<footer>&copy; Meccfor srl - All right reserved - VAT n. 02588850343</footer>
