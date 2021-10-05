@@ -13,7 +13,7 @@
 	<?php include('inc/favicons.php'); ?>
 
 	<title>Downloads • MECCFOR - Design & Forniture Componenti Meccanici</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/mc.css">
+	<style type="text/css"><?php include('assets/css/mc.css">'); ?></style>
 </head>
 <body>
 
