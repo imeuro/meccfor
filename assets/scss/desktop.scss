@@ -66,7 +66,7 @@
 			.mc-cat-subpages {
 				position: fixed;
 				left: 15px;
-				top: 550px;
+				bottom: 50px;
 				z-index: 10;
 				flex-flow: column nowrap;
 			}
@@ -137,7 +137,7 @@
 			padding-left: $page-left-margin;
 			min-height: calc(100vh - 30px - 439px);
 			.mc-cat-subpages {
-				top: 600px;
+				bottom: 60px;
 			}
 		}
 	}

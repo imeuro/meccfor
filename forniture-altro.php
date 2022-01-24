@@ -13,7 +13,7 @@
 	<?php include('inc/favicons.php'); ?>
 
 	<title>Forniture - Altro • MECCFOR - Design & Forniture Componenti Meccanici</title>
-	<style type="text/css"><?php include('assets/css/mc.css">'); ?></style>
+	<style type="text/css"><?php include('assets/css/mc.css'); ?></style>
 </head>
 <body>
 
@@ -50,6 +50,7 @@
 				<ul class="mc-cat-subpages">
 					<li><a href="forniture-riduttori"><img src="assets/graphics/icon-riduttori.svg" width="264" height="264" alt="Forniture - Riduttori" class="mc-subpages-icons">Riduttori</a></li>
 					<li><img src="assets/graphics/icon-altro-current.svg" width="282" height="282" alt="Forniture - Altro" class="mc-subpages-icons">Altro</li>
+					<li><a href="forniture-certificazioni"><img src="assets/graphics/icon-certificazioni.svg" width="282" height="282" alt="Forniture - Certificazioni" class="mc-subpages-icons">Certificazioni</a></li>
 				</ul>
 			</div>
 			

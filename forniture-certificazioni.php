@@ -12,7 +12,7 @@
 
 	<?php include('inc/favicons.php'); ?>
 
-	<title>Forniture - Riduttori • MECCFOR - Design & Forniture Componenti Meccanici</title>
+	<title>Forniture - Certificazioni • MECCFOR - Design & Forniture Componenti Meccanici</title>
 	<style type="text/css"><?php include('assets/css/mc.css'); ?></style>
 </head>
 <body>
@@ -45,25 +45,12 @@
 			sizes="100vw" class="mc-cover-image"></h1>
 
 			<div class="mc-page-content">
-				<h2 class="mc-page-subtitle">RIDUTTORI PER VALVOLE</h2>
-				<ul class="mc-list-dotted">
-					<li><p>Meccfor è specializzata nella fornitura di riduttori per valvole a sfera e farfalle ad un quarto di giro.</p></li>
-					<li>
-						<p>L’esperienza trentennale dei tecnici permette una scelta adeguata e la fornitura dell’accoppiamento corretto di un componente che ha una importanza fondamentale nel funzionamento della valvola.</p>
-					</li>
-					<li>
-						<p>Possono essere forniti riduttori con corpo in ghisa oppure in acciaio inossidabile.</p>
-					</li>
-					<li>
-						<p>Assistenza in fase di selezione con la possibilità di realizzare disegni dedicati 2D o 3D.</p>
-					</li>
-				</ul>
-
+				<p class="mc-dl-text"><a href="./assets/downloads/ISO9001-2015.pdf" target="_blank">Quality Management System ISO 9001:2015</a></p>
 
 				<ul class="mc-cat-subpages">
-					<li><img src="assets/graphics/icon-riduttori-current.svg" width="264" height="264" alt="Forniture - Riduttori" class="mc-subpages-icons">Riduttori</li>
+					<li><a href="forniture-riduttori"><img src="assets/graphics/icon-riduttori.svg" width="264" height="264" alt="Forniture - Riduttori" class="mc-subpages-icons">Riduttori</a></li>
 					<li><a href="forniture-altro"><img src="assets/graphics/icon-altro.svg" width="282" height="282" alt="Forniture - Altro" class="mc-subpages-icons">Altro</a></li>
-					<li><a href="forniture-certificazioni"><img src="assets/graphics/icon-certificazioni.svg" width="282" height="282" alt="Forniture - Certificazioni" class="mc-subpages-icons">Certificazioni</a></li>
+					<li><img src="assets/graphics/icon-certificazioni-current.svg" width="282" height="282" alt="Forniture - Certificazioni" class="mc-subpages-icons">Certificazioni</li>
 				</ul>
 
 			</div>

@@ -64,6 +64,7 @@
 				<ul class="mc-cat-subpages">
 					<li><img src="../assets/graphics/icon-riduttori-current.svg" width="264" height="264" alt="Products - Gear" class="mc-subpages-icons">Gear</li>
 					<li><a href="products-others"><img src="../assets/graphics/icon-altro.svg" width="282" height="282" alt="Products - Others" class="mc-subpages-icons">Others</a></li>
+					<li><a href="products-certifications"><img src="../assets/graphics/icon-certificazioni.svg" width="264" height="264" alt="Products - Certifications" class="mc-subpages-icons">Certifications</a></li>
 				</ul>
 
 			</div>
