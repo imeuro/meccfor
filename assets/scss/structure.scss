@@ -286,7 +286,7 @@ body {
 			p { margin-left: 2px; }
 		}
 		.mc-cat-subpages {
-			@include flex-box(row wrap,flex-start,space-around);
+			@include flex-box(column wrap,flex-start,space-around);
 			margin: 40px 0 20px 0;
 			li {
 				font-size: 1.25rem;

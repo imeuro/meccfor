@@ -10,6 +10,7 @@
 		<ul>
 			<li><a href="products-gear" title="Gear">Gear</a></li>
 			<li><a href="products-others" title="Others">Others</a></li>
+			<li><a href="products-certifications" title="Others">Certifications</a></li>
 		</ul>
 	</li>
 	<li><a href="download" title="Download">Download</a></li>

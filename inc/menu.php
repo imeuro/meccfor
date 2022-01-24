@@ -10,6 +10,7 @@
 		<ul>
 			<li><a href="forniture-riduttori" title="Riduttori">Riduttori</a></li>
 			<li><a href="forniture-altro" title="Altro">Altro</a></li>
+			<li><a href="forniture-certificazioni" title="Certificazioni">Certificazioni</a></li>
 		</ul>
 	</li>
 	<li><a href="download" title="Download">Download</a></li>
