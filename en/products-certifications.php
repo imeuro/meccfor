@@ -50,7 +50,7 @@
 
 				<ul class="mc-cat-subpages">
 					<li><a href="products-gear"><img src="../assets/graphics/icon-riduttori.svg" width="264" height="264" alt="Products - Gear" class="mc-subpages-icons">Gear</a></li>
-					<li><img src="../assets/graphics/icon-altro.svg" width="282" height="282" alt="Products - Others" class="mc-subpages-icons">Others</li>
+					<li><a href="products-others"><img src="../assets/graphics/icon-altro.svg" width="282" height="282" alt="Products - Others" class="mc-subpages-icons">Others</a></li>
 					<li><img src="../assets/graphics/icon-certificazioni-current.svg" width="282" height="282" alt="Products - Certifications" class="mc-subpages-icons">Certifications</li>
 				</ul>
 			</div>
