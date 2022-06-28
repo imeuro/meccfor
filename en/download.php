@@ -46,6 +46,7 @@
 
 			<div class="mc-page-content">
 				<p class="mc-dl-text"><a href="../assets/downloads/quarter-turn-gearboxes-brochure.pdf" target="_blank">Quarter-turn Gearboxes Brochure</a></p>
+				<p class="mc-dl-text"><a href="./assets/downloads/AISI316-bevel-gearboxes.pdf" target="_blank">AISI316 & Bevel Gearboxes</a></p>
 
 			</div>
 
