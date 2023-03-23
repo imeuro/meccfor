@@ -56,7 +56,7 @@
 
 				<ul class="mc-cat-subpages">
 					<li><img src="../assets/graphics/icon-design-current.svg" width="282" height="282" alt="Services - Design" class="mc-subpages-icons">Design</li>
-					<li><a href="https://brsvalveservice.com/en/" target="_blank"><img src="assets/graphics/BRS-logo.png" width="120" height="120" alt="BRS Valve Service" class="mc-subpages-icons">BRS Valve Service</a>
+					<li><a href="https://brsvalveservice.com/en/" target="_blank"><img src="../assets/graphics/BRS-logo.png" width="120" height="120" alt="BRS Valve Service" class="mc-subpages-icons">BRS Valve Service</a>
 				</ul>
 			</div>
 
