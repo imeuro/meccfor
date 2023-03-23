@@ -49,7 +49,7 @@
 
 				<ul class="mc-cat-subpages">
 					<li><a href="services-design"><img src="../assets/graphics/icon-design.svg" width="282" height="282" alt="Services - Design" class="mc-subpages-icons">Design</a></li>
-					<li><img src="../assets/graphics/icon-inloco-current.svg" width="264" height="264" alt="Services - on site" class="mc-subpages-icons">in loco</li>
+					<li><a href="https://brsvalveservice.com/en/" target="_blank"><img src="assets/graphics/BRS-logo.png" width="120" height="120" alt="BRS Valve Service" class="mc-subpages-icons">BRS Valve Service</a></li>
 				</ul>
 			</div>
 			
