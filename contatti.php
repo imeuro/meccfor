@@ -55,7 +55,7 @@
 					27010 Copiano (PV) Italy
 				</p>
 				<p>
-					<strong>Tel:</strong> +39 335 60850047<br>
+					<strong>Tel:</strong> +39 335 6085004<br>
 					<a class="mc-mailer" href="#" data-user="sales" data-domain="meccfor.com"></a><br>
 					<a class="mc-mailer" href="#" data-user="meccfor" data-domain="pec.it"></a>
 				</p>
